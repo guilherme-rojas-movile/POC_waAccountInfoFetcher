@@ -5,3 +5,5 @@ POC for fetching data from facebook Bussiness' Whatsapp Accounts' page
  * Python 3
  * Selenium (`pip install selenium`)
  * Change login form and Account you want to fetch info from
+
+[related JIRA task](https://wavyglobal.atlassian.net/browse/BRA-1989)
